@@ -22,6 +22,4 @@ Note: For the moment code is deploying application and haxproxy in master node t
 
 The Application server Details can be verified with `curl -I -H 'Host: foo.bar' 'http://<clusterIP/DNS_IP>:30279'` 
 
-For more details on HAPROXY Setup: https://www.haproxy.com/blog/dissecting-the-haproxy-kubernetes-ingress-controller/
-
 Thanks, connect for Anyhelp: pg3391@gmail.com
